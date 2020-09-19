@@ -1,0 +1,6 @@
+C:\Users\mcehl\Source\Repos\csharp-hello\Nunit_Example1\Nunit_Example1\bin\Debug\Nunit_Example1.exe.config
+C:\Users\mcehl\Source\Repos\csharp-hello\Nunit_Example1\Nunit_Example1\bin\Debug\Nunit_Example1.exe
+C:\Users\mcehl\Source\Repos\csharp-hello\Nunit_Example1\Nunit_Example1\bin\Debug\Nunit_Example1.pdb
+C:\Users\mcehl\Source\Repos\csharp-hello\Nunit_Example1\Nunit_Example1\obj\Debug\Nunit_Example1.csprojResolveAssemblyReference.cache
+C:\Users\mcehl\Source\Repos\csharp-hello\Nunit_Example1\Nunit_Example1\obj\Debug\Nunit_Example1.exe
+C:\Users\mcehl\Source\Repos\csharp-hello\Nunit_Example1\Nunit_Example1\obj\Debug\Nunit_Example1.pdb
